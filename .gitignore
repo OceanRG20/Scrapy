@@ -25,9 +25,6 @@ Thumbs.db
 output/raw_soup.txt
 screenshots/
 
-# Output data
-output/*.xlsx
-output/*.xml
 
 # Chromedriver cache (optional)
 chromedriver.log
